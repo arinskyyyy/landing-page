@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+body {
+    font-family: "Roboto", sans-serif;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.section1, footer {
+    background: #1F2937;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    align-items: center;
+}
+
+.header h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+
+}
+
+.header ul {
+    display: flex;
+    font-size: 18px;
+    color: #6e788a;
+    gap: 18px;
+    font-size : 16px;
+}
+
+.section1 {
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.hero-main-text {
+    display: flex;
+    border: 60px solid #1F2937;
+}
+
+.hmt-block1 {
+    flex-wrap: wrap;
+    margin-left : 150px;
+}
+
+.hmt-block1 span {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hmt-block1 p {
+    color: #6e788a;
+}
+.hmt-block1 button {
+    background-color : #3882F6;
+    color: white;
+    font-size: 16px;
+    padding: 7px 24px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+}
+.hmt-block2 {
+    margin-right: 150px;
+}
+
+.hmt-block2 .placeholder {
+    display: flex;
+    background-color: rgb(115, 122, 132);
+    color: white;
+    width: 565px;
+    height: 265px;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+footer {
+    position: fixed;
+}
