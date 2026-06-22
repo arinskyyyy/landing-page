@@ -62,7 +62,7 @@ ul {
 .hmt-block1 p {
     color: #6e788a;
 }
-.hmt-block1 button {
+.hmt-block1 button, button {
     background-color : #3882F6;
     color: white;
     font-size: 16px;
@@ -160,6 +160,36 @@ ul {
     padding-right: 340px;
     font-size: 24px;
 }
+
+.section4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    background: #3882F6;
+    color: white;
+    padding: 40px;
+    margin: 100px;
+    margin-left: 220px;
+    margin-right: 220px;
+    border-radius: 8px;
+}
+
+button {
+    border: 2px solid white;
+}
+
+.s4block1 {
+    color: #cbd1db;
+    font-size: 18px;
+}
+
+.s4block1 span {
+    color: white;
+    font-size: 24px;
+    font-weight: 900;
+}
+
 footer {
     bottom: 0;
     left: 0;
@@ -168,4 +198,5 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    color: #cbd1db;
 }
