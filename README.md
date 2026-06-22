@@ -13,4 +13,4 @@ You can view the live deployment of this website here: [live demo link!](https:/
 
 Contact : [linktree](https://linktr.ee/arinskyyyy)
 
-Project link : [https://github.com](https://github.com)
+Project link : [https://arinskyyyy.github.io/landing-page/](https://arinskyyyy.github.io/landing-page/)
